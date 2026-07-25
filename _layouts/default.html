@@ -18,6 +18,7 @@
     <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
     <a href="{{ '/meetings/' | relative_url }}"{% if page.url contains 'meetings' %} aria-current="page"{% endif %}>Past meetings</a>
     <a href="{{ '/mailing-list/' | relative_url }}"{% if page.url contains 'mailing-list' %} aria-current="page"{% endif %}>Mailing list</a>
+    <a href="{{ '/about/' | relative_url }}"{% if page.url contains 'about' %} aria-current="page"{% endif %}>About</a>
   </nav>
 </header>
 
