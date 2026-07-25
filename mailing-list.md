@@ -6,8 +6,8 @@ permalink: /mailing-list/
 
 The GPOTS mailing list carries announcements about upcoming meetings.
 
-It is low volume.  Your address
-is not shared with anyone outside of the organizers, and every message carries a one-click unsubscribe
+Your address
+is not shared with anyone other than the organizers, and every message carries a one-click unsubscribe
 link.
 
 ## Subscribe

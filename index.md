@@ -43,7 +43,7 @@ permalink: /
 </div>
 {%- endif %}
 
-GPOTS is the annual United States meeting in operator algebras and operator
+GPOTS is an annual meeting in operator algebras and operator
 theory. It has been held every year since 1981 and has had continuous support
 from the National Science Foundation since 1983. A different university hosts
 each year.
@@ -51,7 +51,7 @@ each year.
 Registration, the program, invited speakers, and local information all live on
 the host institution's own website for that year. This site exists to make the
 current meeting easy to find, to keep a record of [past
-meetings](/meetings/), and to run the announcement list.
+meetings](/meetings/), and to help run the announcement list.
 
 ## Announcements
 
