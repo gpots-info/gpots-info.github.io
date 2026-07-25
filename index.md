@@ -53,11 +53,13 @@ the host institution's own website for that year. This site exists to make the
 current meeting easy to find, to keep a record of [past
 meetings](/meetings/), and to run the announcement list.
 
-## Keeping in touch
+## Announcements
 
 Announcements about future meetings go out on the [mailing
 list](/mailing-list/). It is low volume, a few messages a year, and you can
 leave at any time.
+
+## Contact
 
 For anything about the conference itself, write to
 [organizers@gpots.org](mailto:organizers@gpots.org). That address reaches
