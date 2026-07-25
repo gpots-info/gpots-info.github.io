@@ -101,6 +101,8 @@
 
 - year: 2009
   host: University of Colorado Boulder
+  dates: June 2-6, 2009
+  organizers: [Carla Farsi, Alexander Gorokhovsky, Judith Packer, Markus Pflaum, Marty Walter]
 
 - year: 2008
   host: University of Cincinnati
@@ -113,71 +115,113 @@
 
 - year: 2005
   host: University of Central Florida
+  dates: June 7-12, 2005
+  organizers: [Deguang Han, Xin Li, Piotr Mikusinski, Ram Mohapatra, Zuhair Nashed, Qiyu Sun, Kuppalapalle Vajravelu]
 
 - year: 2004
   host: Texas A&M University
+  organizers: [Ron Douglas, Ken Dykema, David Larson, Carl Pearcy, Gilles Pisier, Roger Smith, Nico Spronk]
 
 - year: 2003
   host: University of Illinois
+  organizers: [Florin Boca, Marius Junge, Zhong-Jin Ruan]
 
 - year: 2002
   host: University of North Carolina at Charlotte
+  organizers: [Xingde Dai, Yuanan Diao, Alan Lambert]
 
 - year: 2001
   host: University of New Hampshire
+  organizers: [Liming Ge, Don Hadwin, Eric Nordgren]
 
 - year: 2000
   host: University of Puerto Rico
+  organizers: [Guihua Gong, Cornel Pasnicu]
 
 - year: 1999
   host: Iowa State University
+  organizers: [Justin Peters, Yiu Tung Poon, Bruce Wagner]
 
 - year: 1998
   host: Kansas State University
+  organizers: [Gabriel Nagy, Vladimir Peller]
 
 - year: 1997
   host: Queen's University
+  organizers: [Jamie Mingo]
 
 - year: 1996
   host: Arizona State University
+  organizers: [John Quigg, Jack Spielberg]
 
 - year: 1995
   host: University of Cincinnati
+  organizers: [Victor Kaftal, Costel Peligrad, Gary Weiss, Shuang Zhang]
 
 - year: 1994
   host: University of Nebraska-Lincoln
+  organizers: [John Orr, David Pitts, Gordon Woodward]
 
 - year: 1993
   host: University of Colorado Boulder
+  organizers: [Arlan Ramsay, Marty Walter]
 
 - year: 1992
   host: University of Iowa
+  organizers: [Raul Curto, Fred Goodman, Palle Jorgensen, Paul Muhly]
 
 - year: 1991
   host: Texas A&M University
+  organizers: [David Larson, Carl Pearcy, Roger Smith, Joe Ward]
 
 - year: 1990
   host: University of New Mexico
+  organizers: [Frank Gilfeather]
 
 - year: 1989
   host: University of Houston
+  organizers: [David Blecher, Vern Paulsen]
   note: Renamed the Great Plains Operator Theory Symposium.
 
 - year: 1988
   host: Indiana University-Purdue University Indianapolis
+  organizers: [Bernard Morrel]
 
 - year: 1987
   host: University of Kansas
+  organizers: [John Bunce, Bill Paschke, Norberto Salinas, Albert Sheu]
 
 - year: 1986
   host: University of Cincinnati
+  organizers: [Victor Kaftal, Gary Weiss]
 
 - year: 1985
   host: Texas A&M University
+  organizers: [Roger Smith, Joe Ward, Dana Williams]
 
 - year: 1984
   host: Iowa State University
+  organizers: [Justin Peters, Bruce Wagner]
+
+- year: 1983
+  host: University of Colorado Boulder
+  organizers: [Arlan Ramsay, Marty Walter]
+
+- year: 1982
+  host: University of Iowa
+  organizers: [Paul Muhly]
 
 - year: 1981
   host: University of Kansas
+  organizers: [John Bunce, Bill Paschke, Norberto Salinas]
   note: Held as the Great Plains Operator Theory Seminar.
+
+- year: 1980
+  host: University of Nebraska-Lincoln
+  organizers: [Frank Gilfeather, David Larson]
+  note: Precursor meeting.
+
+- year: 1979
+  host: University of Iowa
+  organizers: [Paul Muhly]
+  note: Precursor meeting.

@@ -7,6 +7,10 @@ permalink: /meetings/
 GPOTS began in 1981 as the Great Plains Operator Theory Seminar and took its
 present name in 1989.
 
+Entries from 1979 to 2005 follow a history compiled by David Larson for the
+proceedings of the 25th symposium, in [Contemporary Mathematics
+414](https://www.ams.org/books/conm/414/conm414-endmatter.pdf), pages xv-xvii.
+
 Some entries are incomplete. If you can fill in a gap or correct an error,
 write to [webmaster@gpots.org](mailto:webmaster@gpots.org).
 
