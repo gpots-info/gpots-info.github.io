@@ -142,6 +142,31 @@ li { margin-bottom: 0.35rem; }
 
 .next-meeting p:last-child { margin-bottom: 0; }
 
+/* ---- Most recent meeting block ---- */
+/* Deliberately quieter than the next-meeting block above it. */
+
+.past-meeting {
+  margin: 0 0 2.25rem;
+  padding: 0 0 0 1.4rem;
+  border-left: 3px solid var(--rule);
+}
+
+.past-meeting .kicker {
+  margin: 0 0 0.3rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.past-meeting .where {
+  margin: 0 0 0.15rem;
+  font-size: 1.02rem;
+  font-weight: 600;
+}
+
+.past-meeting .when { margin: 0; color: var(--muted); font-size: 0.92rem; }
+
 /* ---- Tables ---- */
 
 .table-wrap {

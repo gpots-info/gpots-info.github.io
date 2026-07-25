@@ -3,14 +3,32 @@
 # To add a year, copy the block below, put it at the top, and fill it in.
 # Only "year" is required. Leave out anything you don't know.
 #
-#   - year: 2027
+#   - year: 2028
 #     host: Name of University
-#     dates: May 24-28, 2027
-#     url: https://example.edu/gpots2027
+#     dates: May 24-28, 2028
+#     url: https://example.edu/gpots2028
 #     organizers: [First Last, First Last]
+#     upcoming: true
 #
+# ---------------------------------------------------------------------
+# IMPORTANT: "upcoming: true" marks the meeting that has not happened
+# yet. It is what puts a meeting in the "Next meeting" box on the front
+# page. Exactly one entry should have it, or none between meetings.
+#
+# So, once a meeting is over, delete its "upcoming: true" line and put
+# one on the next meeting instead. That single line is the difference
+# between the front page saying "next" and saying "most recent".
+# ---------------------------------------------------------------------
+#
+# If dates are not settled, just write them with "(provisional)" after.
 # Lines starting with # are notes and never appear on the site.
 # Entries marked "unconfirmed" below still need checking.
+
+- year: 2027
+  host: University of Hawaii at Manoa
+  dates: May 24-28, 2027 (provisional)
+  organizers: [Rufus Willett, Erik Guentner, Forrest Glebe]
+  upcoming: true
 
 - year: 2026
   host: University of Iowa
