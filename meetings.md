@@ -4,8 +4,8 @@ title: Past meetings
 permalink: /meetings/
 ---
 
-GPOTS has met annually since 1981, first as the Great Plains Operator Theory
-Seminar and under its present name since 1989.
+GPOTS began in 1981 as the Great Plains Operator Theory Seminar and took its
+present name in 1989.
 
 Some entries are incomplete. If you can fill in a gap or correct an error,
 write to [webmaster@gpots.org](mailto:webmaster@gpots.org).

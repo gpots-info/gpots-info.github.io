@@ -45,32 +45,27 @@
   host: University of Nebraska-Lincoln
   dates: June 3-7, 2024
   url: https://math.unl.edu/gpots-2024
-  organizers: [Allan Donsig, Ishan Ishan, David Pitts, Christopher Schafhauser, Gregory Faurot]
+  organizers: [Allan Donsig, Ishan, David Pitts, Christopher Schafhauser, Gregory Faurot]
 
 - year: 2023
   host: The Ohio State University
   dates: May 15-19, 2023
-  organizers: [Ovidiu Costin, Rodica Costin, Jan Lang, David Penneys, Daniel Wallick]
+  organizers: [Ovidiu Costin, Rodica Costin, Jan Lang, David Penneys]
 
 - year: 2022
   host: Washington University in St. Louis
   dates: May 23-27, 2022
   organizers: [Gregory Knese, John McCarthy, Yanli Song, Xiang Tang, Brett Wick]
 
-- year: 2021
-  host:
-
-- year: 2020
-  host:
-
 - year: 2019
   host: Texas A&M University
-  dates: May 20-24, 2019
+  dates: May 28 - June 1, 2019
   organizers: [Michael Anshelevich, Michael Brannan, Ken Dykema, David Kerr, David Larson, Roger Smith, Zhizhang Xie, Guoliang Yu]
 
 - year: 2018
   host: Miami University
   dates: May 29 - June 2, 2018
+  organizers: [Caleb Eckhardt, Paul McKenney, Narcisse Randrianantoanina]
 
 - year: 2017
   host: Texas Christian University
@@ -80,7 +75,8 @@
 
 - year: 2016
   host: University of Illinois at Urbana-Champaign
-  url: https://conf.math.illinois.edu/gpots/
+  dates: May 23-27, 2016
+  organizers: [Florin Boca, Marius Junge, Zhong-Jin Ruan]
 
 - year: 2015
   host: Purdue University
@@ -181,12 +177,6 @@
 
 - year: 1984
   host: Iowa State University
-
-- year: 1983
-  host:
-
-- year: 1982
-  host:
 
 - year: 1981
   host: University of Kansas
