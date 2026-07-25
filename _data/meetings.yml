@@ -1,0 +1,174 @@
+# GPOTS meetings, newest first.
+#
+# To add a year, copy the block below, put it at the top, and fill it in.
+# Only "year" is required. Leave out anything you don't know.
+#
+#   - year: 2027
+#     host: Name of University
+#     dates: May 24-28, 2027
+#     url: https://example.edu/gpots2027
+#     organizers: [First Last, First Last]
+#
+# Lines starting with # are notes and never appear on the site.
+# Entries marked "unconfirmed" below still need checking.
+
+- year: 2026
+  host: University of Iowa
+  dates: May 26-30, 2026
+  url: https://sites.google.com/view/gpots-2026
+  organizers: [Sergii Bezuglyi, Ionut Chifan, Raul Curto, Daniel Drimbe, Palle Jorgensen]
+
+- year: 2025
+  host: University of Puerto Rico, Rio Piedras
+  url: https://math.uprrp.edu/gpots-2025
+
+- year: 2024
+  host: University of Nebraska-Lincoln
+  dates: June 3-7, 2024
+  url: https://math.unl.edu/gpots-2024
+  organizers: [Allan Donsig, Ishan Ishan, David Pitts, Christopher Schafhauser, Gregory Faurot]
+
+- year: 2023
+  host: The Ohio State University
+  dates: May 15-19, 2023
+
+- year: 2022
+  host: Washington University in St. Louis
+  dates: May 23-27, 2022
+
+# unconfirmed: reported as Washington University in St. Louis, held online.
+- year: 2021
+  host:
+
+# unconfirmed: an NSF award titled "2020 Great Plains Operator Theory Symposium"
+# exists (#1954733), but the meeting appears not to have been held.
+- year: 2020
+  host:
+  note: Not held.
+
+# unconfirmed: sources conflict. A conference site existed at
+# math.tamu.edu/~kerr/gpots2019/ (Texas A&M, David Kerr), but one source
+# says University of New Mexico.
+- year: 2019
+  host:
+
+- year: 2018
+  host: Miami University
+  dates: May 29 - June 2, 2018
+
+- year: 2017
+  host: Texas Christian University
+  dates: May 22-26, 2017
+  url: https://faculty.tcu.edu/jcarrion/gpots/
+
+- year: 2016
+  host: University of Illinois at Urbana-Champaign
+  url: https://conf.math.illinois.edu/gpots/
+
+- year: 2015
+  host: Purdue University
+  url: https://www.math.purdue.edu/~mdd/GPOTS2015/index.html
+
+- year: 2014
+  host: Kansas State University
+
+- year: 2013
+  host: University of California, Berkeley
+
+- year: 2012
+  host: University of Houston
+
+- year: 2011
+  host: Arizona State University
+
+- year: 2010
+  host: University of Denver
+
+- year: 2009
+  host: University of Colorado Boulder
+
+- year: 2008
+  host: University of Cincinnati
+
+- year: 2007
+  host: University of Nebraska-Lincoln
+
+- year: 2006
+  host: University of Iowa
+
+- year: 2005
+  host: University of Central Florida
+
+- year: 2004
+  host: Texas A&M University
+
+- year: 2003
+  host: University of Illinois
+
+- year: 2002
+  host: University of North Carolina at Charlotte
+
+- year: 2001
+  host: University of New Hampshire
+
+- year: 2000
+  host: University of Puerto Rico
+
+- year: 1999
+  host: Iowa State University
+
+- year: 1998
+  host: Kansas State University
+
+- year: 1997
+  host: Queen's University
+
+- year: 1996
+  host: Arizona State University
+
+- year: 1995
+  host: University of Cincinnati
+
+- year: 1994
+  host: University of Nebraska-Lincoln
+
+- year: 1993
+  host: University of Colorado Boulder
+
+- year: 1992
+  host: University of Iowa
+
+- year: 1991
+  host: Texas A&M University
+
+- year: 1990
+  host: University of New Mexico
+
+- year: 1989
+  host: University of Houston
+  note: Renamed the Great Plains Operator Theory Symposium.
+
+- year: 1988
+  host: Indiana University-Purdue University Indianapolis
+
+- year: 1987
+  host: University of Kansas
+
+- year: 1986
+  host: University of Cincinnati
+
+- year: 1985
+  host: Texas A&M University
+
+- year: 1984
+  host: Iowa State University
+
+- year: 1983
+  host:
+
+- year: 1982
+  host:
+
+- year: 1981
+  host: University of Kansas
+  note: Held as the Great Plains Operator Theory Seminar.

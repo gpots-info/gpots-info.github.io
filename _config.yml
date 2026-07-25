@@ -1,0 +1,21 @@
+# Site-wide settings. Changing anything here affects every page.
+
+title: GPOTS
+long_title: Great Plains Operator Theory Symposium
+description: >-
+  The Great Plains Operator Theory Symposium, the annual United States
+  meeting in operator algebras and operator theory, held every year since 1981.
+
+url: https://gpots.org
+baseurl: ""
+
+# Contact addresses shown in the footer.
+email_organizers: organizers@gpots.org
+email_webmaster: webmaster@gpots.org
+
+# No theme. The layout in _layouts/default.html is used instead.
+
+exclude:
+  - README.md
+  - MAINTAINING.md
+  - LICENSE
