@@ -43,24 +43,14 @@ permalink: /
 </div>
 {%- endif %}
 
-GPOTS is an annual meeting in operator algebras and operator
-theory. It has been held every year since 1981 and has had continuous support
-from the National Science Foundation since 1983. A different university hosts
-each year.
+GPOTS is an annual meeting in operator algebras and operator theory. It has been held every year since 1981 and has had continuous support from the National Science Foundation since 1983. A different university hosts each year.
 
-Registration, the program, invited speakers, and local information all live on
-the host institution's own website for that year. This site exists to make the
-current meeting easy to find, to keep a record of [past
-meetings](/meetings/), and to help run the announcement list.
+Registration, the program, invited speakers, and local information all live on the host institution's own website for that year. This site exists to make the current meeting easy to find, to keep a record of [past meetings](/meetings/), and to help run the announcement list.
 
 ## Announcements
 
-Announcements about future meetings go out on the [mailing
-list](/mailing-list/). It is low volume, a few messages a year, and you can
-leave at any time.
+Announcements about future meetings go out on the [mailing list](/mailing-list/). It is low volume, a few messages a year, and you can leave at any time.
 
 ## Contact
 
-For anything about the conference itself, write to
-[organizers@gpots.org](mailto:organizers@gpots.org). That address reaches
-whoever is organizing the next meeting.
+For anything about the conference itself, write to [organizers@gpots.org](mailto:organizers@gpots.org). That address reaches whoever is organizing the next meeting.

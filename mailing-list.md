@@ -6,9 +6,7 @@ permalink: /mailing-list/
 
 The GPOTS mailing list carries announcements about upcoming meetings.
 
-Your address
-is not shared with anyone other than the organizers, and every message carries a one-click unsubscribe
-link.
+Your address is not shared with anyone other than the organizers, and every message carries a one-click unsubscribe link.
 
 ## Subscribe
 
@@ -24,7 +22,6 @@ added.</p>
 
 ## Leaving the list
 
-Every message has an unsubscribe link at the bottom. Use it and you are removed
-immediately.
+Every message has an unsubscribe link at the bottom. Use it and you are removed immediately.
 
 If an address on the list is wrong or out of date, write to [webmaster@gpots.org](mailto:webmaster@gpots.org) and it will be corrected.
