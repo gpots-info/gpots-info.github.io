@@ -39,7 +39,7 @@
   host: University of Puerto Rico, Rio Piedras
   dates: October 20-24, 2025
   url: https://math.uprrp.edu/gpots-2025
-  organizers: [Iván Cardona, Guihua Gong, Valentin Keyantuo, Liangqin Li, Angel Román, Lin Shan, Alejandro Vélez]
+  organizers: [Iván Cardona, Guihua Gong, Valentin Keyantuo, Liangqing Li, Angel Román, Lin Shan, Alejandro Vélez]
 
 - year: 2024
   host: University of Nebraska-Lincoln
@@ -86,32 +86,43 @@
 
 - year: 2014
   host: Kansas State University
+  organizers: [Sarah Reznikoff, Gabriel Nagy, Jonathan Brown]
 
 - year: 2013
   host: University of California, Berkeley
+  organizers: [Marc Rieffel, Donald Sarason]
 
 - year: 2012
   host: University of Houston
+  dates: May 30 - June 3, 2012
+  organizers: [Vern Paulsen, David Blecher, Mark Tomforde, Bernhard Bodmann]
 
 - year: 2011
   host: Arizona State University
+  organizers: [John Quigg, Jack Spielberg, Steven Kaliszewski]
 
 - year: 2010
   host: University of Denver
+  organizers: [Frédéric Latrémolière, Nicholas Ormes, Alvaro Arias]
 
 - year: 2009
   host: University of Colorado Boulder
   dates: June 2-6, 2009
+  url: https://math.colorado.edu/gpots2009/
   organizers: [Carla Farsi, Alexander Gorokhovsky, Judith Packer, Markus Pflaum, Marty Walter]
 
 - year: 2008
   host: University of Cincinnati
+  organizers: [Victor Kaftal, Gary Weiss, Herbert Halpern, Costel Peligrad, Shuang Zhang]
 
 - year: 2007
   host: University of Nebraska-Lincoln
+  organizers: [David Pitts, John Orr, Allan Donsig, Cynthia Farthing]
 
 - year: 2006
   host: University of Iowa
+  dates: May 24-28, 2006
+  organizers: [Raul Curto, Fred Goodman, Palle Jorgensen, Paul Muhly]
 
 - year: 2005
   host: University of Central Florida
@@ -120,6 +131,7 @@
 
 - year: 2004
   host: Texas A&M University
+  dates: May 26-30, 2004
   organizers: [Ron Douglas, Ken Dykema, David Larson, Carl Pearcy, Gilles Pisier, Roger Smith, Nico Spronk]
 
 - year: 2003
@@ -136,7 +148,9 @@
 
 - year: 2000
   host: University of Puerto Rico
-  organizers: [Guihua Gong, Cornel Pasnicu]
+  dates: May 23-27, 2000
+  url: https://math.uprrp.edu/gpots-2000/
+  organizers: [Iván Cardona, Ioana Cioranescu, Guihua Gong, Valentin Keyantuo, Liangqing Li, Cornel Pasnicu, Silviu Teleman, Brad Weiner]
 
 - year: 1999
   host: Iowa State University
@@ -144,6 +158,7 @@
 
 - year: 1998
   host: Kansas State University
+  dates: May 27-31, 1998
   organizers: [Gabriel Nagy, Vladimir Peller]
 
 - year: 1997
