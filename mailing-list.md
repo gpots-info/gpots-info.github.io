@@ -4,12 +4,10 @@ title: Mailing list
 permalink: /mailing-list/
 ---
 
-The GPOTS mailing list carries announcements about upcoming meetings: dates and
-location once they are set, registration opening, funding deadlines, and the
-call for contributed talks.
+The GPOTS mailing list carries announcements about upcoming meetings.
 
-It is low volume. Expect a few messages a year and nothing else. Your address
-is not shared with anyone, and every message carries a one-click unsubscribe
+It is low volume.  Your address
+is not shared with anyone outside of the organizers, and every message carries a one-click unsubscribe
 link.
 
 ## Subscribe
@@ -27,8 +25,6 @@ added.</p>
 ## Leaving the list
 
 Every message has an unsubscribe link at the bottom. Use it and you are removed
-immediately, with no reply needed.
+immediately.
 
-If an address on the list is wrong, out of date, or belongs to someone who has
-retired or died, write to
-[webmaster@gpots.org](mailto:webmaster@gpots.org) and it will be corrected.
+If an address on the list is wrong or out of date, write to [webmaster@gpots.org](mailto:webmaster@gpots.org) and it will be corrected.

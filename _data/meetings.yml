@@ -37,7 +37,9 @@
 
 - year: 2025
   host: University of Puerto Rico, Rio Piedras
+  dates: October 20-24, 2025
   url: https://math.uprrp.edu/gpots-2025
+  organizers: [Iván Cardona, Guihua Gong, Valentin Keyantuo, Liangqin Li, Angel Román, Lin Shan, Alejandro Vélez]
 
 - year: 2024
   host: University of Nebraska-Lincoln
@@ -48,21 +50,23 @@
 - year: 2023
   host: The Ohio State University
   dates: May 15-19, 2023
+  organizers: [Ovidiu Costin, Rodica Costin, Jan Lang, David Penneys, Daniel Wallick]
 
 - year: 2022
   host: Washington University in St. Louis
   dates: May 23-27, 2022
+  organizers: [Gregory Knese, John McCarthy, Yanli Song, Xiang Tang, Brett Wick]
 
 - year: 2021
   host:
 
 - year: 2020
   host:
-  note: Not held.
 
 - year: 2019
   host: Texas A&M University
   dates: May 20-24, 2019
+  organizers: [Michael Anshelevich, Michael Brannan, Ken Dykema, David Kerr, David Larson, Roger Smith, Zhizhang Xie, Guoliang Yu]
 
 - year: 2018
   host: Miami University
@@ -72,6 +76,7 @@
   host: Texas Christian University
   dates: May 22-26, 2017
   url: https://faculty.tcu.edu/jcarrion/gpots/
+  organizers: [José Carrión, Efton Park]
 
 - year: 2016
   host: University of Illinois at Urbana-Champaign
@@ -79,7 +84,9 @@
 
 - year: 2015
   host: Purdue University
+  dates: May 26-30, 2015
   url: https://www.math.purdue.edu/~mdd/GPOTS2015/index.html
+  organizers: [Marius Dadarlat, Andrew Toms]
 
 - year: 2014
   host: Kansas State University
