@@ -14,14 +14,11 @@ link.
 
 ## Subscribe
 
-<!-- ===================================================================
-     PASTE THE EMAILOCTOPUS EMBED FORM HERE.
-
-     In EmailOctopus: Forms, then the embedded form for this list, then
-     copy the HTML and replace this comment block with it.
-
-     Until that is done the paragraph below stands in for the form.
-     =================================================================== -->
+{% comment %}
+Paste the EmailOctopus embed form here, replacing the paragraph below.
+In EmailOctopus: Forms, then the embedded form for this list, then copy
+the HTML.
+{% endcomment %}
 
 <p class="muted">The signup form is not connected yet. In the meantime, write to
 <a href="mailto:organizers@gpots.org">organizers@gpots.org</a> and you will be

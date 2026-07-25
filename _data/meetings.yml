@@ -22,7 +22,6 @@
 #
 # If dates are not settled, just write them with "(provisional)" after.
 # Lines starting with # are notes and never appear on the site.
-# Entries marked "unconfirmed" below still need checking.
 
 - year: 2027
   host: University of Hawaiʻi at Mānoa
@@ -54,21 +53,16 @@
   host: Washington University in St. Louis
   dates: May 23-27, 2022
 
-# unconfirmed: reported as Washington University in St. Louis, held online.
 - year: 2021
   host:
 
-# unconfirmed: an NSF award titled "2020 Great Plains Operator Theory Symposium"
-# exists (#1954733), but the meeting appears not to have been held.
 - year: 2020
   host:
   note: Not held.
 
-# unconfirmed: sources conflict. A conference site existed at
-# math.tamu.edu/~kerr/gpots2019/ (Texas A&M, David Kerr), but one source
-# says University of New Mexico.
 - year: 2019
-  host:
+  host: Texas A&M University
+  dates: May 20-24, 2019
 
 - year: 2018
   host: Miami University
