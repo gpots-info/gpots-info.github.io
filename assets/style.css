@@ -215,6 +215,65 @@ td .note {
   font-style: italic;
 }
 
+/* ---- Subscribe form ---- */
+
+.subscribe {
+  margin: 0 0 1.5rem;
+  padding: 1.25rem 1.4rem;
+  max-width: 26rem;
+  background: var(--surface);
+  border-left: 3px solid var(--accent);
+  border-radius: 2px;
+}
+
+.subscribe .field { margin-bottom: 0.9rem; }
+
+.subscribe label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.subscribe input[type="email"],
+.subscribe input[type="text"] {
+  width: 100%;
+  padding: 0.5rem 0.6rem;
+  font: inherit;
+  font-size: 0.95rem;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+}
+
+.subscribe input:focus {
+  border-color: var(--accent);
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+}
+
+.subscribe button {
+  padding: 0.5rem 1.1rem;
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--bg);
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.subscribe button:hover { opacity: 0.9; }
+
+/* Bot trap. Off screen, skipped when tabbing, hidden from screen readers.
+   Anything typed into it means the submission was not made by a person. */
+.subscribe .trap {
+  position: absolute;
+  left: -9999px;
+}
+
 /* ---- Footer ---- */
 
 footer {

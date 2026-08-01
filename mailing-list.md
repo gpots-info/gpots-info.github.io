@@ -6,22 +6,37 @@ permalink: /mailing-list/
 
 The GPOTS mailing list carries announcements about upcoming meetings.
 
-Your address is not shared with anyone other than the organizers, and every message carries a one-click unsubscribe link.
+Your address is not shared with anyone other than the organizers.
 
 ## Subscribe
 
 {% comment %}
-Paste the EmailOctopus embed form here, replacing the paragraph below.
-In EmailOctopus: Forms, then the embedded form for this list, then copy
-the HTML.
+The form posts to the list server, which sends the confirmation and then
+redirects to /mailing-list/check-your-email/. The "trap" field is a bot
+trap: it is positioned off screen by the stylesheet, so anything typed
+into it means the submission was not made by a person.
 {% endcomment %}
 
-<p class="muted">The signup form is not connected yet. In the meantime, write to
-<a href="mailto:organizers@gpots.org">organizers@gpots.org</a> and you will be
-added.</p>
+<form class="subscribe" action="https://lists.gpots.org/subscribe" method="post">
+  <div class="field">
+    <label for="sub-email">Email address</label>
+    <input type="email" id="sub-email" name="email" required autocomplete="email">
+  </div>
+  <div class="field">
+    <label for="sub-name">Name (optional)</label>
+    <input type="text" id="sub-name" name="display_name" autocomplete="name">
+  </div>
+  <div class="trap" aria-hidden="true">
+    <label for="sub-website">Leave this field empty</label>
+    <input type="text" id="sub-website" name="website" tabindex="-1" autocomplete="off">
+  </div>
+  <button type="submit">Subscribe</button>
+</form>
+
+You will be sent a message asking you to confirm. Nothing is added to the list until you answer it.
 
 ## Leaving the list
 
-Every message has an unsubscribe link at the bottom. Use it and you are removed immediately.
+Send an empty message to [announce-leave@gpots.org](mailto:announce-leave@gpots.org) and you are removed straight away. That address is also at the bottom of every message the list sends.
 
-If an address on the list is wrong or out of date, write to [webmaster@gpots.org](mailto:webmaster@gpots.org) and it will be corrected.
+If an address on the list is wrong or out of date, write to [webmaster@gpots.org](mailto:webmaster@gpots.org).
